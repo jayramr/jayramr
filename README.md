@@ -17,7 +17,7 @@ I'm a highly resourceful Linux administrator turned DevOps Engineer with 13+ yea
 - Contributor to the **Bioconda** channel
 
 ## 🔍 Notable Project
-- [**guru**](https://github.com/NYUAD-Core-Bioinformatics/guru) – ETL pipeline built with **Apache Airflow** for large-scale bioinformatics data processing at NYUAD.
+- [**guru**](https://github.com/NYUAD-Core-Bioinformatics/guru) – ETL pipeline built with **Apache Airflow** for large-scale data processing workflow automation. 
 
 ---
 

@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jayaram 👋
 
-<!--
-**jayramr/jayramr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | Linux Enthusiast | Open Source Contributor
 
-Here are some ideas to get you started:
+I'm a highly resourceful Linux administrator turned DevOps Engineer with 13+ years of international experience. I specialize in cloud platforms, containerization, CI/CD pipelines, and infrastructure as code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Current Role:** DevOps Engineer – Core Bioinformatics team at NYU Abu Dhabi
+
+## 🛠️ Key Highlights
+- Strong expertise in **Linux internals** and system troubleshooting  
+- Cloud experience across **AWS** and **Azure**
+- Proficient with **Kubernetes**, **Docker**, and container orchestration
+- CI/CD tooling: **GitHub Actions**, **Jenkins**, **ArgoCD**, **FluxCD**, **GitLab Runner**
+- Scripting in **Bash**, **Python**, and **Perl**
+- Workflow automation using **Apache Airflow** and **Kafka**
+- Monitoring with **Nagios**, **Prometheus**, and **Grafana**
+- Contributor to the **Bioconda** channel
+
+---
+
+📫 Feel free to connect or check out my work here on GitHub!

@@ -11,10 +11,13 @@ I'm a highly resourceful Linux administrator turned DevOps Engineer with 13+ yea
 - Cloud experience across **AWS** and **Azure**
 - Proficient with **Kubernetes**, **Docker**, and container orchestration
 - CI/CD tooling: **GitHub Actions**, **Jenkins**, **ArgoCD**, **FluxCD**, **GitLab Runner**
-- Scripting in **Bash**, **Python**, and **Perl**
+- Scripting in **Bash**, **Python**
 - Workflow automation using **Apache Airflow** and **Kafka**
 - Monitoring with **Nagios**, **Prometheus**, and **Grafana**
 - Contributor to the **Bioconda** channel
+
+## 🔍 Notable Project
+- [**guru**](https://github.com/NYUAD-Core-Bioinformatics/guru) – ETL pipeline built with **Apache Airflow** for large-scale bioinformatics data processing at NYUAD.
 
 ---
 

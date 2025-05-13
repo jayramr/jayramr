@@ -1,6 +1,6 @@
 # Hi, I'm Jayaram 👋
 
-🚀 DevOps Engineer | Linux Enthusiast | Open Source Contributor
+🚀 DevOps Engineer | Linux Enthusiast | Kubestronaut | Open Source Contributor
 
 I'm a highly resourceful Linux administrator turned DevOps Engineer with 13+ years of international experience. I specialize in cloud platforms, containerization, CI/CD pipelines, and infrastructure as code.
 
@@ -18,7 +18,7 @@ I'm a highly resourceful Linux administrator turned DevOps Engineer with 13+ yea
 
 ## 🔍 Notable Project
 - [**guru**](https://github.com/NYUAD-Core-Bioinformatics/guru) – ETL pipeline built with **Apache Airflow** for large-scale data processing workflow automation. 
-
+- Honored to also have my profile listed on the official CNCF Kubestronaut page: [**Kubeastronaut**](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=ae&p=jayaram-radhakrishnan)
 ---
 
 📫 Feel free to connect or check out my work here on GitHub!
